@@ -1,3 +1,3 @@
 # Web-Dynamic-Care-Health
 
-## About our Project:
+## About the Project:
